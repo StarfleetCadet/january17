@@ -1,0 +1,3 @@
+-Proxy-Server
+->LAN<->DMZ<->WAN
+-assignment hardware components <-> OSI-Model Layer
