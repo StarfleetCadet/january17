@@ -1,0 +1,3 @@
+-pc architecture: chip-sets, mainboardcomponents, cache levels, pipelining, hyper-threading 
+-prepareing for consulting appointment
+-processing my documents
