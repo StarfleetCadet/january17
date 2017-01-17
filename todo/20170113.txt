@@ -1,0 +1,3 @@
+-SQL:Relational databases, objectoriented databases
+-DML, DDL, DCL,TC
+-ERM exercises
