@@ -1,0 +1,2 @@
+-VoIP,VPN, WLAN (ad-hoc, infrastructure) 
+-WIFI Protected Access 2, access points
