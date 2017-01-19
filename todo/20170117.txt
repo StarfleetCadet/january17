@@ -1,0 +1,2 @@
+-research WordPress, testing some
+-reading php
