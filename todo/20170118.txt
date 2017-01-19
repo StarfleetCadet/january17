@@ -1,0 +1,2 @@
+-reading and practice database design
+-learning terms and graphics of databases
