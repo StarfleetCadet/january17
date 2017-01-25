@@ -1,0 +1,5 @@
+-Softwarequalität
+-Testverfahren
+-Konsequenzen von Softwarefehlern
+-Revisionssichere Datensicherung
+-Regelung von Datenschutzgesetzen
