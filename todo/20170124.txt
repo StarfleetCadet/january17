@@ -1,0 +1,4 @@
+-CMS, Drei-Schichten-Architektur
+-Pflichten/Lastenheft
+-Software-Entwicklungsmodelle (sequentiell, iterativ, agil)
+-Scrum
