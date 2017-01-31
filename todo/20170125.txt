@@ -1,0 +1,2 @@
+-Scrum-Master, Product-Owner, Sprint, Produkt-Backlog (User-Stories)
+-Aktivitätsdiagramm, Paketdiagramm, Zustandsdiagramm
